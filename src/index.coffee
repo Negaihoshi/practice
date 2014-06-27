@@ -1,7 +1,4 @@
-bunyan = require('bunyan')
 request = require('request')
-events = require("events")
-util = require('util')
 
 class Test
 
